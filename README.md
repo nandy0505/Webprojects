@@ -1,6 +1,4 @@
 # Webprojects
-**Objective**
-The Virtual E-Marketplace Commodities Exploration Mechanism is a digital marketplace system designed to help users explore and discover different commodities through an online platform. It provides a convenient way to browse commodities, view product details, compare available options, and interact with marketplace listings.
 
 **Objectives**
 Provide an easy-to-use platform for exploring commodities.
